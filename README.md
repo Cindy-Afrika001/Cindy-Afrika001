@@ -7,7 +7,7 @@ Software Engineer
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [cynthiasigeey@gmail.com](mailto:cynthiasigeey@gmail.com)
 * 🧠  I'm learning Django
-* 🤝  I'm open to collaborating on Looking forward to collaborate on interesting projects
+* 🤝  I'm  Looking forward to collaborate on interesting projects
 
 ### Skills
 
