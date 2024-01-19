@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Cynthia Sigeey 
+Software Engineer
 
 <!--
 **Cindy-Afrika001/Cindy-Afrika001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
