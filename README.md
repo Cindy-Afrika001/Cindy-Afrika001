@@ -8,7 +8,7 @@
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [cynthiasigeey@gmail.com](mailto:cynthiasigeey@gmail.com)
 * 🧠  I'm learning Django
-* 🤝  I'm open to collaborating on on interesting projects
+* 🤝  I'm open to collaborating  on interesting projects
 
 <a href="https://www.github.com/Cindy-Afrika001" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Cindy-Afrika001?logo=github&style=for-the-badge&color=0f172a&labelColor=1c1917" /></a>
