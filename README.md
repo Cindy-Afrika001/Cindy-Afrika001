@@ -7,7 +7,7 @@
 
 * 🌍  I'm based in Nairobi, Kenya.
 * ✉️  You can contact me at [cynthiasigeey@gmail.com](mailto:cynthiasigeey@gmail.com)
-* 🧠  I'm learning Django. 
+* 🧠  I'm currently learning new things concerning technology. 
 * 🤝  I'm open to collaborating  on interesting projects.
 
 <a href="https://www.github.com/Cindy-Afrika001" target="_blank" rel="noreferrer"><img
