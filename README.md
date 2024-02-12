@@ -1,6 +1,6 @@
-<h1 align = "center">Hi,   i'm Cynthia</h1>
+<h1 align = "center">Hello there,</h1>
 
-<p align = "center">Software Engineer</p>
+<p align = "center">I'm a Software Engineer</p>
 
 ![Alt Text](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
