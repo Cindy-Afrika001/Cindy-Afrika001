@@ -1,9 +1,9 @@
-<h1 align = "center">Hello there,</h1>
+<h1 align = "center">Welcome to my GitHub profile! 👩‍💻</h1>
 
 <p align = "center">I'm a Software Engineer</p>
 
 ![Alt Text](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-
+I'm passionate about creating beautiful and functional web experiences. With expertise in frontend development, I specialize in crafting responsive, user-friendly interfaces that bring ideas to life on the web. Here you'll find a collection of my projects, contributions, and experiments in the world of web development.
 
 * 🌍  I'm based in Nairobi, Kenya.
 * ✉️  You can contact me at [cynthiasigeey@gmail.com](mailto:cynthiasigeey@gmail.com)
