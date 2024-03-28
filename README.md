@@ -2,7 +2,7 @@
 
 <p align = "center">I'm a Software Engineer</p>
 
-![Alt Text](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![Alt Text]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://th.bing.com/th/id/OIG3.gy3xSSreL2FlvOhxDgWD?pid=ImgGn))
 I'm passionate about creating beautiful and functional web experiences. With expertise in frontend development, I specialize in crafting responsive, user-friendly interfaces that bring ideas to life on the web. Here you'll find a collection of my projects, contributions, and experiments in the world of web development.
 
 * 🌍  I'm based in Nairobi, Kenya.
