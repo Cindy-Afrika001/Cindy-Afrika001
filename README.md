@@ -1,8 +1,8 @@
 <h1 align = "center">Welcome to my GitHub profile! 👩‍💻</h1>
 
 <p align = "center">I'm a Software Engineer</p>
+<img src="" alt="">
 
-![Alt Text]([[https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://th.bing.com/th/id/OIG3.gy3xSSreL2FlvOhxDgWD?pid=ImgGn)](https://camo.githubusercontent.com/e126a18d81151f91956f6b6630f1a6f4a735bb6c9de2b7187c9e6016aa09077e/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966))
 I'm passionate about creating beautiful and functional web experiences. With expertise in frontend development, I specialize in crafting responsive, user-friendly interfaces that bring ideas to life on the web. Here you'll find a collection of my projects, contributions, and experiments in the world of web development.
 
 * 🌍  I'm based in Nairobi, Kenya.
